@@ -35,3 +35,6 @@ I'm Ario Barzan, a cybersecurity expert, full-stack web developer and an indie g
 - Holder of Google's Professional Cybersecurity Certificate.
 - Certified .NET Full-Stack Developer by Board.
 - IBM Full Stack Software Developer Professional Certificate.
+
+## Fun Facts
+- I'm deeply in love with SHODAN
