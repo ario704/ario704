@@ -19,7 +19,7 @@ I'm Ario Barzan, a cybersecurity expert, full-stack web developer and an indie g
 
 - Experienced with backend development using .NET Core and Django.
 - Frontend development with React and Angular.
-- Can employ WordPress for content management systems.
+- Can employ WordPress content management system.
 - Comfortable working with and managing Linux servers.
   
 ## Game Development Hobby
