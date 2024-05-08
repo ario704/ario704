@@ -15,10 +15,8 @@ I'm Ario Barzan, a cybersecurity expert, full-stack web developer and an indie g
 - Familiar with NIST CSF for standardizing security practices.
 - Practical experience using Google's Chronicle as a SIEM tool.
 
-## Full-Stack Development Skills
+## Development Skills
 
-- Experienced with backend development using .NET Core and Django.
-- Frontend development with React and Angular.
 - Can employ WordPress content management system.
 - Comfortable working with and managing Linux servers.
   
@@ -26,15 +24,4 @@ I'm Ario Barzan, a cybersecurity expert, full-stack web developer and an indie g
 
 - Game design and development using Godot Engine.
 
-## Leadership Roles
-
-- CTO and co-founder of Anatomyar and Aizheimer, managing technology strategy and online platforms.
-
-## Certifications
-
-- Holder of Google's Professional Cybersecurity Certificate.
-- Certified .NET Full-Stack Developer by Board.
-- IBM Full Stack Software Developer Professional Certificate.
-
-## Fun Facts
-- I'm deeply in love with SHODAN
+## I'm deeply in love with SHODAN
