@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# Professional Portfolio - Ario Barzan
+# Professional Portfolio
 
 Welcome to the central hub of my professional endeavors, technical skills, and projects. Here's a snapshot of who I am and what I do.
 
 ## Introduction
 
-I'm Ario Barzan, a cybersecurity expert, full-stack web developer and an indie game developer.
+A cybersecurity expert, web developer, and an indie game developer.
 
 ## Cybersecurity Expertise
 
