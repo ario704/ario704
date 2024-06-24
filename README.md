@@ -6,7 +6,7 @@ Welcome to the central hub of my professional endeavors, technical skills, and p
 
 ## Introduction
 
-A cybersecurity Enthusiast, web developer, and an indie game developer.
+A cybersecurity Enthusiast, and an indie game developer.
 
 ## Cybersecurity Expertise
 
@@ -14,11 +14,6 @@ A cybersecurity Enthusiast, web developer, and an indie game developer.
 - Experienced with security assessments and testing within CISSP domains.
 - Familiar with NIST CSF for standardizing security practices.
 - Practical experience using Google's Chronicle as a SIEM tool.
-
-## Development Skills
-
-- Can employ WordPress content management system.
-- Comfortable working with and managing Linux servers.
   
 ## Game Development Hobby
 
