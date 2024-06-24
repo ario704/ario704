@@ -6,7 +6,7 @@ Welcome to the central hub of my professional endeavors, technical skills, and p
 
 ## Introduction
 
-A cybersecurity Enthusiast, and an indie game developer.
+Cybersecurity Enthusiast, and an indie game developer.
 
 ## Cybersecurity Expertise
 
