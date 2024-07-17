@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&center=true&repeat=false&width=435&lines=%3E%3E+Initiating+connection+to+GitHub+repository...;%5BINFO%5D+Establishing+secure+connection+to+https%3A%2F%2Fgithub.com%2Fario704...;%5BSUCCESS%5D+Connection+established.;Sphinx+of+black+quartz%2C+judge+my+vow;%3E%3E+Requesting+repository+data...;%5BINFO%5D+Fetching+repository%3A+ario704;%5BSUCCESS%5D+Repository+data+retrieved.)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 # Professional Portfolio
