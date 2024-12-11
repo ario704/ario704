@@ -7,7 +7,7 @@ Welcome to the central hub of my professional endeavors, technical skills, and p
 
 ## Introduction
 
-Cybersecurity Enthusiast, and an indie game developer.
+Cybersecurity Enthusiast, Alghorithmic trader, and an Indie Game Developer.
 
 ## Cybersecurity Expertise
 
@@ -15,6 +15,11 @@ Cybersecurity Enthusiast, and an indie game developer.
 - Experienced with security assessments and testing within CISSP domains.
 - Familiar with NIST CSF for standardizing security practices.
 - Practical experience using Google's Chronicle as a SIEM tool.
+
+## Alghorithmic Trading
+
+This is more like a story rather than a flashy resume, but as someone who lost a bunch of money to the stock/crypto market's underwater creatures i decided to take revenge by embracing the developer inside rather than the absent trader spirit.
+Mostly experienced with using python and RUST for creating trading bots.
   
 ## Game Development Hobby
 
